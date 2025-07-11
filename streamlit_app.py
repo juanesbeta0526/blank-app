@@ -6,7 +6,7 @@ import requests
 st.title("📦 Visor de Importaciones 2025")
 
 # URL de descarga directa desde Google Drive
-URL_DB = "https://drive.google.com/uc?export=download&id=1yivdMmrunmaq_lzSKjk4-QrSnQL0Pstt"
+URL_DB = "https://drive.google.com/file/d/1fBn2GPoGV6CTTwt55jNAF5UchM_E37bk/view?usp=sharing"
 
 # Descargar y guardar archivo temporalmente
 @st.cache_resource
